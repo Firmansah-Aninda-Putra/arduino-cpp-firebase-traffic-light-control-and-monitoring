@@ -3,10 +3,10 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define WIFI_SSID "3-JAGOANKU"
-#define WIFI_PASSWORD "janganlupabismillah"
-#define API_KEY "AIzaSyC0A3jnD9DZ6GNPFZe3zsc0Gv_ityKVM6U"
-#define DATABASE_URL "https://praktikum-1-613a3-default-rtdb.firebaseio.com/" 
+#define WIFI_SSID "wifiid"
+#define WIFI_PASSWORD "wifipassword"
+#define API_KEY "api"
+#define DATABASE_URL "firebase" 
 
 FirebaseData fbdo;
 FirebaseAuth auth;
